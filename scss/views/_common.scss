@@ -1,0 +1,57 @@
+//
+// BASIC TAGS
+//
+
+body {
+  background: $background;
+}
+
+a {
+  color: $positive;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+  font-size: $headingFontSize;
+  font-family: $fontFamily;
+}
+
+//
+// CUSTOM CLASSES
+//
+
+
+.both {
+  clear: both
+}
+.border-top {
+  border-top: solid 2px $textColor;
+}
+
+.border-bottom {
+  border-bottom: solid 2px $textColor;
+}
+
+.on-the-top {
+  z-index: 100;
+  position: absolute;
+}
+
+.top-margin {
+  margin-top: 10px;
+}
+
+.bottom-margin {
+  margin-bottom: 10px;
+}
+
+.u {
+  text-decoration: underline;
+}
+
+.upper {
+  text-transform: uppercase;
+}
+
+.hidden{
+  display: none;
+}

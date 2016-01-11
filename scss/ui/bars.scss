@@ -1,0 +1,19 @@
+
+.bar-header {
+  height: 54px;
+  padding: 10px;
+}
+
+.bar .title {
+  top: 5px;
+
+}
+
+.bar .title + .buttons {
+  top: 8px;
+  right: 8px;
+}
+
+.has-header {
+  top: $headerHeight;
+}
