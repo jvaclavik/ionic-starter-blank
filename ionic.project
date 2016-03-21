@@ -1,6 +1,6 @@
 {
   "name": "Your App Name",
-  "app_id": "",
+  "app_id": "33899c2c",
   "gulpStartupTasks": [
     "sass",
     "scripts",
