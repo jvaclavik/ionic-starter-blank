@@ -11,6 +11,6 @@ app.config(function ($stateProvider, $urlRouterProvider, $ionicConfigProvider, $
     // states end
     ;
 
-    $urlRouterProvider.otherwise(APP_CONFIG.defaultState);
+    $urlRouterProvider.otherwise("/home");
 
 });

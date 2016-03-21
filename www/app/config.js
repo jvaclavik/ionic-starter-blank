@@ -2,7 +2,6 @@ app.constant("APP_CONFIG", {
     //Basic config
     debugMode: true,
     storagePrefix: "test_",
-    defaultState: "/menu/home",
 
     // API config
     apiUrl: "example.com/api/v1/",
